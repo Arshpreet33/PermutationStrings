@@ -1,2 +1,2 @@
 # PermutationStrings
-Find all permutation strings relatd to input string
+Find all permutation strings related to input string
